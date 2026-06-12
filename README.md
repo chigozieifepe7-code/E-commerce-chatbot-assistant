@@ -1,7 +1,7 @@
 ﻿# Tentative bol.com E-commerce-chatbot-assistant
 # Project Overview
 
-The project aims to develop and deploy an AI-powered chatbot to enhance the user experience for Flipkart's e-commerce platform. The chatbot will assist users with frequently asked questions (FAQs) and product inquiries, driving engagement and customer satisfaction.
+The project aims to develop and deploy an AI-powered chatbot to enhance the user experience for Bol's e-commerce platform. The chatbot will assist users with frequently asked questions (FAQs) and product inquiries, driving engagement and customer satisfaction.
 
 ## Chatbot development in Streamlit
 Objective: Build a chatbot in Streamlit with core functionalities for FAQs and product inquiries.
