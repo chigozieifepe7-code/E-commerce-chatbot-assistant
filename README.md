@@ -13,5 +13,4 @@ Deliverables:
 - Product Inquiries – Product and pricing information will be pulled from an SQLite database.
 Tech Stack:
 - Language Model: LLama3.3 LLM - Frontend: Streamlit
-codebasics.io
 - Database: Chromadb (vector database) and SQLite (product and pricing storage) - Routing: Semantic router
